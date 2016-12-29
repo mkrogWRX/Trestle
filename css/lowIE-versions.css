@@ -1,0 +1,37 @@
+﻿.bannerOverlay, .currentStatusOverlay
+{
+    /* For IE 5.5 - 7*/
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000);
+    /* For IE 8*/
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000)";
+}
+
+.content
+{
+    position: relative;
+
+}.header
+{
+    zoom: 1; /* For IE 6/7 */
+}
+
+.content .fullbackground
+{
+    display: inline;
+    position:absolute;
+    z-index:-2;
+    top:0;
+    left:0;
+    width:100%; /* alternative: right:0; */
+    height:100%; /* alternative: bottom:0; */
+}
+
+    .three-across > a {
+        margin-right:2%;
+    }
+
+    div.heading.copy > h3 {
+       color:#2A363C;
+       padding:0px;
+       font-weight:bold;  
+    }

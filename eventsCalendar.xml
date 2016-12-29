@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Calendar>
+  <event>
+		<date>07/28/2016</date>
+		<calloutDate>July 28th</calloutDate>
+		<calloutMessage>Air Downhill.</calloutMessage>
+	</event>
+	<event>
+		<date>07/29/2016</date>
+		<calloutDate>July 29th</calloutDate>
+		<calloutMessage>Super Downhill; Maxxis Slopestyle.</calloutMessage>
+	</event>
+	<event>
+		<date>07/30/2016</date>
+		<calloutDate>July 30th</calloutDate>
+		<calloutMessage>Singletrack XC. Maxxis Slopestyle Finals. </calloutMessage>
+	</event>
+	<event>
+		<date>07/31/2016</date>
+		<calloutDate>July 31st</calloutDate>
+		<calloutMessage>USAC State Championship Downhill; Banana Peel Jam;</calloutMessage>
+	</event>
+</Calendar>

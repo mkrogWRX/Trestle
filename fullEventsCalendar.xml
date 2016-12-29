@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Calendar>
+
+  <!-- 6/11/16 Opening Day -->
+  <event>
+    <date>06/11/2016</date>
+    <dateLink>https://www.winterparkresort.com/things-to-do/events/summer-opening-day</dateLink>
+    <dateNumber>
+      11
+    </dateNumber>
+    <dateMonth>
+      Jun
+    </dateMonth>
+    <calloutHeader>Summer Opening Day</calloutHeader>
+    <calloutMessage>
+      Trestle Bike Park &amp; Winter Park Resort base activities and attractions including the Zephyr Lift open. Favorite attractions such as the Alpine Slide, Amaze’n Human Maze, Leaps &amp;
+      Bounds Bungee, Rock ‘n Roll Gyro, Outdoor Climbing Wall are all located at the base of Winter Park Resort.
+    </calloutMessage>
+  </event>
+
+
+<!-- Chocolate Fest -->
+  <event>
+    <date>06/18/2016</date>
+    <dateLink>https://www.winterparkresort.com/things-to-do/events/chocolate-festival</dateLink>
+    <dateNumber>
+      18
+    </dateNumber>
+    <dateMonth>
+      Jun
+    </dateMonth>
+    <calloutHeader> 7th Annual Chocolate Festival</calloutHeader>
+    <calloutMessage>
+      Chocolate, chocolate, and you guessed it…more chocolate! The 7th annual Chocolate Festival is the
+      ultimate opportunity to celebrate all things CHOCOLATE from 12:00-4:00pm! Treat yourself to multiple
+      samples while enjoying live music and entertainment throughout the day. This event is a treat for any
+      Winter Park Resort vacationer and a destination for chocolate lovers around the state! Admission is free
+      to the public. Guests may purchase “Taste Tickets” to get multiple samples.
+    </calloutMessage>
+  </event>
+
+  <!-- VIDA MTB Clinic -->
+  <event>
+    <date>06/25/2016</date>
+    <dateLink>http://www.vidamtb.com/winterpark/</dateLink>
+    <dateNumber>
+      25
+    </dateNumber>
+    <dateMonth>
+      Jun
+    </dateMonth>
+    <calloutHeader>VIDA MTB 2-Day Clinic @ TBP June 25-26th, 2016</calloutHeader>
+    <calloutMessage>
+      VIDA's Flagship 2-day Clinic will take your riding to the next level. This immersive experience gives you the opportunity to connect with your coaches and dive into the nitty-gritty
+      when it comes to proper form on the bike. What's more, your coaches will help you gain the confidence you need to tackle the next challenge. The second day gives
+      you the chance to seal in and perfect everything you've worked on. VIDA will fill your weekend with healthy meals, yoga, maintenance classes, and happy hour socializing.
+    </calloutMessage>
+  </event>
+
+  
+
+  <!-- Annual Village Uncorked! Wine, Art, & Cheese Festival -->
+  <event>
+    <date>07/02/2016</date>
+    <dateLink>https://www.winterparkresort.com/things-to-do/events/village-uncorked-wine-art--cheese-festival</dateLink>
+    <dateNumber>
+      02
+    </dateNumber>
+    <dateMonth>
+      Jul
+    </dateMonth>
+    <calloutHeader>6th Annual Village UnCorked!</calloutHeader>
+    <calloutMessage>
+      The Village UnCorked! Wine, Art, and Cheese Festival returns to The Village at Winter Park Resort for the
+      6th year on July 2nd from 12 p.m. – 4 p.m. Come kick off the 4th of July weekend and step up your wine
+      game by sampling regional wines and cheeses, which will also be available for sale. Watch, listen and
+      learn during our Cheese 101 class! Purchase one-of-a-kind photography, stained glass, jewelry and
+      more. Admission is free to the public. Guests may purchase “Taste Tickets” to get multiple samples.
+    </calloutMessage>
+  </event>
+
+  <!-- Epic Singletrack- Race Rendezvous -->
+  <event>
+    <date>07/09/2016</date>
+    <dateLink>http://www.epicsingletrack.com/index.html</dateLink>
+    <dateNumber>
+      09
+    </dateNumber>
+    <dateMonth>
+      Jul
+    </dateMonth>
+    <calloutHeader>
+      Epic Singletrack- Race Rendezvous</calloutHeader>
+    <calloutMessage>
+      on-site registration/number pick-up/awards: Hideaway Park, Downtown Winter Park
+    </calloutMessage>
+  </event>
+
+    <!-- Gravity Goddess August 6 and 7 -->
+  <event>
+    <date>07/23/2016</date>
+    <dateLink>/Mountain_BikeCamps.html</dateLink>
+    <dateNumber>
+      23
+    </dateNumber>
+    <dateMonth>
+      Jul
+    </dateMonth>
+    <calloutHeader>Gravity Goddess 2 Day Downhill Camp: Jul 23 &amp; 24</calloutHeader>
+    <calloutMessage>
+      Ladies! The Trestle Bike Park School is putting on this two-day freeride downhill experience that is designed just for you. Our coaches will cover all things freeride downhill mountain biking to advance your
+      riding to the next level. Channel your inner goddess and add a lot of gravity to your downhill riding. Pre-registration is recommended but not required. All skill levels welcome!
+    </calloutMessage>
+  </event>
+
+    <!-- 7/23 Colorado FreeRide Festival -->
+  <event>
+    <date>07/28/2016</date>
+    <dateLink>http://coloradofreeridefestival.com</dateLink>
+    <dateNumber>
+      28
+    </dateNumber>
+    <dateMonth>
+      Jul
+    </dateMonth>
+    <calloutHeader>Colorado Freeride Festival: July 28-31, 2016</calloutHeader>
+    <calloutMessage>
+      USA's premiere Freeride Mountain Bike Festival! Enjoy laps in the park and witness the world’s best
+      mountain bike athletes competing for over $40,000 in prize money. With free family activities, lessons,
+      product demos, meet and greets with the athletes and more in the Festivillage, this is a celebration you
+      won’t want to miss!
+    </calloutMessage>
+  </event>
+
+  <!-- Epic XC Race 4: Colorado Epic XC -->
+  <event>
+    <date>07/26/2015</date>
+    <dateLink>http://www.epicsingletrack.com/index.html</dateLink>
+    <dateNumber>
+      25
+    </dateNumber>
+    <dateMonth>
+      Jul
+    </dateMonth>
+    <calloutHeader>Epic XC Race 4: Colorado Epic XC</calloutHeader>
+    <calloutMessage>
+      Put your skills to the test during Race #4 of the Epic Singletrack Series at the Colorado Freeride Festival. This is your chance to take part in the largest freeride festival in the United States.
+      Starting at 16 miles for beginners and 25 miles for experts, this course is a challenge for all. With six categories of competition, we have races suitable for all ages and abilities.
+      Check-in/Registration starts at 8am. The race begins promptly at 10am.
+    </calloutMessage>
+  </event>
+
+  <!-- Epic XC Race 5: Epic Point to Point -->
+  <event>
+    <date>08/09/2015</date>
+    <dateLink>http://www.epicsingletrack.com/index.html</dateLink>
+    <dateNumber>
+      08
+    </dateNumber>
+    <dateMonth>
+      Aug
+    </dateMonth>
+    <calloutHeader>Epic XC Race 5: Epic Point to Point</calloutHeader>
+    <calloutMessage>
+      Race #5 of the Epic Singletrack Series goes big with our Point to Point course. This course takes you from Upper Cherokee to Lower Cherokee and all the way to Blue Sky Trail.
+      With six categories of competition, we have races suitable for all ages and abilities. Pre-registration is recommended but not required. Check-in/Registration starts at 8am. The race begins promptly at 10am.
+    </calloutMessage>
+  </event>
+
+  <!-- Trestle Gravity Series Weekend 3 – Aug 9 -->
+  <event>
+    <date>08/10/2015</date>
+    <dateLink>/Trestle_GravitySeries.html</dateLink>
+    <dateNumber>
+      09
+    </dateNumber>
+    <dateMonth>
+      Aug
+    </dateMonth>
+    <calloutHeader>Trestle Gravity Series Weekend 3 – Aug 9</calloutHeader>
+    <calloutMessage>
+      Race 5, the final race of the season, is the Two Run Downhill.  It will take place on August 9th and is your last chance at winning some big prize money so don’t miss out!
+    </calloutMessage>
+  </event>
+
+  <!-- High Altitude Flamethrower's Chilli Festival -->
+  <event>
+    <date>08/20/2016</date>
+    <dateLink>https://www.winterparkresort.com/things-to-do/events/high-altitude-flamethrowers-chili-fest</dateLink>
+    <dateNumber>
+      20
+    </dateNumber>
+    <dateMonth>
+      Aug
+    </dateMonth>
+    <calloutHeader>High Altitude Chilli Festival: Aug 20-21, 2016</calloutHeader>
+    <calloutMessage>
+      The High Altitude Flamethrower’s Chili Festival is going to be extra hot this year! It’s our annual tradition
+      to host chili chefs throughout the state as they compete in this Colorado State Chili Cook-Off
+      Championship. With the winners getting a spot to go to the World Competition and a Grand County
+      Champion to be named as well, there will be no shortage of excellent chili sampling. The High Altitude
+      District Championship will be held on Saturday with the Colorado State Championship taking place on
+      Sunday with three categories: Red Chili, Verde Chili, and Salsa. Admission is free to the public. Guests
+      may purchase “Taste Tickets” to get multiple samples.
+    </calloutMessage>
+  </event>
+
+  <!-- Epic Xc Race 6: Excel Roofing King of the Rockies -->
+  <event>
+    <date>08/23/2015</date>
+    <dateLink>http://www.epicsingletrack.com/index.html</dateLink>
+    <dateNumber>
+      22
+    </dateNumber>
+    <dateMonth>
+      Aug
+    </dateMonth>
+    <calloutHeader>Epic XC Race 6: Excel Roofing King of the Rockies</calloutHeader>
+    <calloutMessage>
+      Last but not least, we have our 6th race of the Epic Singletrack Series. The Excel Roofing King of the Rockies will take you on 25 miles of terrain including a downhill section that is fast and furious,
+      so hold on tight. With six categories of competition, we have races suitable for all ages and abilities. Pre-registration is recommended but not required. Check-in/Registration starts at 8am.
+      The race begins promptly at 10am.
+    </calloutMessage>
+  </event>
+  
+  <!-- Gravity Goddess August 6 and 7 -->
+  <event>
+    <date>08/20/2016</date>
+    <dateLink>/Mountain_BikeCamps.html</dateLink>
+    <dateNumber>
+      20
+    </dateNumber>
+    <dateMonth>
+      Aug
+    </dateMonth>
+    <calloutHeader>Gravity Goddess 2 Day Downhill Camp: Aug 20 &amp; 21</calloutHeader>
+    <calloutMessage>
+      Ladies! The Trestle Bike Park School is putting on this two-day freeride downhill experience that is designed just for you. Our coaches will cover all things freeride downhill mountain biking to advance your
+      riding to the next level. Channel your inner goddess and add a lot of gravity to your downhill riding. Pre-registration is recommended but not required. All skill levels welcome!
+    </calloutMessage>
+  </event>
+
+  <!-- Annual Whiskey & Wings BBQ Festival -->
+  <event>
+    <date>09/10/2016</date>
+    <dateLink>https://www.winterparkresort.com/things-to-do/events/whiskey-and-wings</dateLink>
+    <dateNumber>
+      10
+    </dateNumber>
+    <dateMonth>
+      Sep
+    </dateMonth>
+    <calloutHeader>Whiskey &amp; Wings BBQ Festival: Sept 10, 2016</calloutHeader>
+    <calloutMessage>
+      Sample some of the best whiskey and wings in Colorado. With a variety of styles and flavors you will be
+      sure to find your favorite and help us to pick the best wings around.
+    </calloutMessage>
+  </event>
+
+  <!-- Hops and Handlebars (Closing Weekend) -->
+  <event>
+    <date>09/24/2016</date>
+    <dateLink>#</dateLink>
+    <dateNumber>
+      24
+    </dateNumber>
+    <dateMonth>
+      Sep
+    </dateMonth>
+    <calloutHeader>Hops and Handlebars Sept 24, 2016</calloutHeader>
+    <calloutMessage>
+      Join us for the Summer 2016 closing weekend of Trestle Bike Park. Wind down in the Village after
+      ridding to enjoy live music, grab some delicious food, and enjoy a variety of New Belgium Beers.
+    </calloutMessage>
+  </event>
+
+</Calendar>
